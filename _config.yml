@@ -1,0 +1,28 @@
+name: 'EcoWise Sprinkler & Landscaping'
+favicon: null
+layout_spectrum: 0.27954024681821465
+typography_spectrum: 0.8564970011357218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6112332481425256
+  lightness: 0.5559163184370846
+  saturation: 0.19305759342387319
+  rhythmicContrast: 0.9201626814901829
+purpose: []
